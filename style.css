@@ -1,6 +1,11 @@
 h3{
   color: #6dbd43;
-  padding-left: 40%;
+  padding-left: 50%;
+}
+
+h2{
+  text-align: center; 
+  font-size: 30px;
 }
 
 .picture-wrapper{
