@@ -1,2 +1,2 @@
 # keepcalmshithappens.github.io
-Red Velvet albums
+Timeline and collection of all of Red Velvets Albums. 
