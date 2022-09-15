@@ -11,12 +11,22 @@ h2{
   padding-left: 20%;
 }
 
-.picture-wrapper{
 
+
+.image{
+  padding-left: 60px;
+  padding-bottom: 100px;
 }
 
 .album-text{
   vertical-align: middle;
+}
+
+.content-container {
+  margin: auto;
+  height: 100%;
+  width: 80%;
+  background-color: blueviolet;
 }
 
   
