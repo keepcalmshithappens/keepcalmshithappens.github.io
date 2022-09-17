@@ -5,6 +5,14 @@ h3{
   font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
+.heading{
+  width:100%;
+  height: 500px;
+  object-fit: contain;
+  overflow: hidden;
+  background-color: aqua;
+}
+
 span{
   font-family:'Times New Roman', Times, serif;
 }
