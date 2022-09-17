@@ -1,3 +1,9 @@
+body{
+  background-color: rgb(46, 30, 30);
+}
+
+
+
 h3{
   color: red;
   padding-left: 15%;
@@ -6,11 +12,19 @@ h3{
 }
 
 .heading{
-  width:100%;
-  height: 500px;
+  width: 100%;
+
+  height: 600px;
   object-fit: contain;
   overflow: hidden;
-  background-color: aqua;
+  box-shadow: 0px -50px 40px -1px rgb(46, 30, 30)  inset;
+  
+
+}
+
+.head-img{
+  z-index: -10;
+  position:relative;
 }
 
 span{
@@ -24,12 +38,17 @@ h2{
 
 .events-wrapper{
   padding-left: 10%;
+  position:absolute;
+  top: 120px;
+  left:10%;
+
 }
 
 .album{
   background-color: #6dbd43;
   margin-right: 30px;
   height: 350px;
+  width: 700px;
 }
 
 
@@ -38,6 +57,7 @@ h2{
   object-fit: contain;
   display: inline-block;
   padding-right: 19px;
+
 }
 
 .album-text{
@@ -48,11 +68,23 @@ h2{
 }
 
 .content-container {
+  position:absolute;
+  top: 430px;
+  left:5%;
   margin: auto;
   height: 1000px;
-  max-width: 80%;
-  width: 80%;
-  background-color: blueviolet;
+  max-width: 90%;
+  width: 90%;
+
+}
+
+.timeline-title{
+  background-color: rgb(90, 30, 40);
+  text-align: center;
+  padding-bottom: 20px;
+  width: 60%;
+  margin-left: 20%;
+  padding-top: 1px;
 }
 
   
