@@ -49,8 +49,6 @@ h2{
 .events-wrapper{
   position:absolute;
   top: 120px;
-  padding-left: 15%;
-
 }
 
 .link{
@@ -65,6 +63,7 @@ h2{
   background-color: rgb(20,6,5);
   height: 350px;
   width: 800px;
+  vertical-align: middle;
 }
 
 
