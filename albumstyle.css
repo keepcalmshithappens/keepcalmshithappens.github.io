@@ -12,12 +12,13 @@
   }
 
   span{
-    padding-left: 42%
+    padding-left: 42%;
+    color: rgb(86,63,144);
   }
 
-  h3{
-    color: rgb(212,117,82);
-    font-size:x-large;
+  h1{
+    color: rgb(86,63,144);
+    font-size: 50px;
     font-family:Georgia, 'Times New Roman', Times, serif;
     text-align: center;
   }
@@ -37,25 +38,19 @@
     margin-left: 10%;
     height: 80%;
     width: 80%;
-    margin-top: 50px;
   
   }
   .content{
-    background-color: rgb(87,64,153);
     height: 100%;
     width: 75%;
     margin-left: 12.5%;
-    margin-top: 20px;
-    padding-top:20px ;
-
   }
 
   .timeline-title{
-    background-color: rgb(87,64,153);
     text-align: center;
     width:40%;
     margin-left: 30%;
-    height:50px;
+    margin-bottom: 30px;
   }
 
 
