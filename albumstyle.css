@@ -1,0 +1,50 @@
+.indexheading{
+    width: 100%;
+    height: 580px;
+    object-fit: contain;
+    overflow: hidden;
+    box-shadow: 0px -50px 20px -20px rgb(85,31,91)  inset;
+  }
+
+  .head-img{
+    z-index: -10;
+    position:relative;
+  }
+
+  h3{
+    color: rgb(212,117,82);
+    padding-left: 15%;
+    font-size:x-large;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+  }
+
+  body{
+    background-color: rgb(85,31,91);
+  }
+
+
+  .content-container {
+    position:absolute;
+    top: 480px;
+    left:5%;
+    margin: auto;
+    height: 1000px;
+    max-width: 100%;
+    width: 100%;
+  
+  }
+  .album{
+    background-color: rgb(20,6,5);
+    height: 350px;
+    width: 800px;
+  }
+
+  .timeline-title{
+    background-color: rgb(20,6,5);
+    text-align: center;
+    padding-bottom: 20px;
+    width: 50%;
+    margin-left: 22%;
+    padding-top: 1px;
+  }
+  
