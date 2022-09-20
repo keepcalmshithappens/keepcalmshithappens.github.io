@@ -9,7 +9,8 @@ span, h2{
 
 h3{
   color: rgb(212,117,82);
-  padding-left: 15%;
+  text-align: center;
+  padding-top: 20px;
   font-size:x-large;
   font-family:Georgia, 'Times New Roman', Times, serif;
 }
@@ -18,15 +19,16 @@ h3{
   height: 580px;
   object-fit: contain;
   overflow: hidden;
-  box-shadow: 0px -50px 20px -20px rgb(217,220,218)  inset;
+  box-shadow: 0px -50px 50px -50px rgb(217,220,218)  inset;
 }
 
 .indexheading{
   width: 100%;
-  height: 580px;
-  object-fit: contain;
+  height: 1%;
+  object-fit: cover;
   overflow: hidden;
   box-shadow: 0px -50px 20px -20px rgb(246,204,162)  inset;
+  
 }
 
 
@@ -59,6 +61,9 @@ h2{
   background-color: rgb(20,6,5);
   height: 350px;
   vertical-align: middle;
+  max-width:100%;
+  margin-bottom: 30px;
+  max-height:100%;
 }
 
 
@@ -67,6 +72,9 @@ h2{
   object-fit: contain;
   display: inline-block;
   padding-right: 19px;
+  object-fit: contain;
+  overflow: hidden;
+
 
 }
 
@@ -80,11 +88,10 @@ h2{
 .content-container {
   position:absolute;
   top: 480px;
-  left:25%;
+  left:20%;
   margin: auto;
   height: 1000px;
-  max-width: 100%;
-  width: 800px;
+  width: 60%;
 }
 
 .timeline-title{
