@@ -46,10 +46,6 @@ h2{
   text-align: center; 
 }
 
-.events-wrapper{
-  position:absolute;
-  top: 120px;
-}
 
 .link{
   display: block;
@@ -62,7 +58,6 @@ h2{
 .album{
   background-color: rgb(20,6,5);
   height: 350px;
-  width: 800px;
   vertical-align: middle;
 }
 
@@ -85,20 +80,17 @@ h2{
 .content-container {
   position:absolute;
   top: 480px;
-  left:5%;
+  left:25%;
   margin: auto;
   height: 1000px;
   max-width: 100%;
-  width: 100%;
-
+  width: 800px;
 }
 
 .timeline-title{
   background-color: rgb(20,6,5);
   text-align: center;
   padding-bottom: 20px;
-  width: 50%;
-  margin-left: 22%;
   padding-top: 1px;
 }
 
