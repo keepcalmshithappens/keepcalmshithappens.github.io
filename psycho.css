@@ -1,0 +1,9 @@
+.heading-img{
+    background-image: url("https://i.imgur.com/YTG13qf.jpg");
+    width:100%;
+    height:650px;
+    background-size: cover;
+    background-position: 0 23%;
+    box-shadow: 0px -50px 20px -20px rgb(246,204,162)  inset;
+  
+  }
