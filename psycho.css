@@ -6,8 +6,11 @@ h3{
   text-align: center;
 }
 
-span{
-  padding-left: 5%;
+p{
+  padding-left: 3%;
+  padding-right: 3%;
+  margin-top: -1.5%;
+  text-align: justify;
 }
 
 li{
@@ -53,23 +56,23 @@ img{
 .content{
   margin: 5%;
   border-radius: 5px;
-  background-color: rgb(220,220,210, 0.8);
+  background-color: rgb(220,220,210, 0.2);
   border: rgb(40,30,45);
   border-style:double;
 }
 
 .halfcontent{
-  width:16%;
-  margin-top: 4%;
-  margin-left: 2%;
+  width:100%;
   border-style: double;
-  position: absolute;
-  top:105%;
-  left:79%;
+  position:sticky;
+  position: -webkit-sticky;
+  margin-top: 100px;
+  
+
 }
 
 .sidebar{
-
+  background-color: #6dbd43;
   
 }
 
