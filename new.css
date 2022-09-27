@@ -3,7 +3,7 @@ body{
   }
 
 span{
-    margin-top: -20%;
+    margin-top: -12%;
     margin-right: 10%;
 }
   
@@ -36,7 +36,6 @@ span{
   }
   
   .circle{
-    background-color: #6dbd43;
     margin-left: 42%;
   }
   
@@ -44,16 +43,23 @@ span{
     width:3px;
     height:100px;
     background-color:black;
-    margin-left: 49%;
+    margin-left: 48.2%;
+  }
+
+  .album{
+    width:80%; 
+    margin-left: 8%;
   }
   
   
   img{
-    width: 150px;
-    height:150px;
+    width: 200px;
+    height:200px;
     object-fit:cover;
     overflow: hidden;
-    border-radius: 80px;
+    border-radius: 5px;
+    border-style: groove;
+    border-color: rgb(212,117,82);
   }
 
 
